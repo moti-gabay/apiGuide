@@ -283,7 +283,7 @@ exports.guides =   [
       "description": "Finishing Touches\n\n1. Sand and Finish: Smooth any rough edges or surfaces using sandpaper. Apply a protective finish or stain to the wood to enhance its durability and appearance. Follow the manufacturer's instructions for application and drying times.\n\n2. Landscaping and Decoration: Complete the look of your pergola by landscaping the surrounding area. Consider adding climbing plants, hanging baskets, or outdoor lighting to create an inviting atmosphere.\n\n3. Furnish and Enjoy: Place outdoor furniture, such as seating or a dining set, under your pergola to create a comfortable and functional outdoor space. Enjoy the shade and ambiance provided by your newly built pergola."
     }
   ],
-  "img_url":"https://www.pexels.com/@valeriya-kobzar-42371713/"
+  "img_url":"https://media.istockphoto.com/id/1368936511/photo/gazebo-build.jpg?b=1&s=612x612&w=0&k=20&c=XYixBCB7uhfe4jfNJyM9m-Qpey75PXf_AyGpjE1Z9iU="
 
 },
 {
@@ -312,7 +312,7 @@ exports.guides =   [
       "description": "Finishing Touches\n\n1. Allow for Drying and Curing: Follow the manufacturer's instructions for drying and curing times of the adhesive mortar and grout. Avoid touching or disturbing the installation during this period.\n\n2. Seal (if desired): Consider applying a brick sealer to protect the surface and enhance the color and durability of the thin bricks. Follow the manufacturer's instructions for application and drying times.\n\n3. Clean and Maintain: Regularly clean the surface of your thin brick installation using a mild detergent and a soft brush or sponge. Avoid using abrasive cleaners that could damage the bricks or grout."
     }
   ],
-  "img_url":"https://www.pexels.com/@bidvine-517980/"
+  "img_url":"https://media.istockphoto.com/id/1133685683/photo/worker-carpenter-doing-laminate-floor-work.jpg?b=1&s=612x612&w=0&k=20&c=zCWUNDMOe6n5Q-YzYtpdwbpx08AK3z6C4OT_58wBp0w="
 
 
 },

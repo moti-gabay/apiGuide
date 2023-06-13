@@ -5,13 +5,6 @@ const cors = require("cors");
 const {routesInit} = require("./routes/configRoutes")
 require("./db/mongoConnect");
 
-
-const indexR = require("./index");
-
-exports.routesInit = (app) => {
-  app.use("/",indexR);
-}
-
 const app = express();
 app.use(cors());
 // מאפשר לשלוח באדי דרך הצד לקוח

@@ -1,6 +1,6 @@
 exports.guides =   [
   {
-    "_id":"1",
+    "_id":1,
       "title": "Guide to Building a Bookshelf",
       "introduction": "This guide will provide you with step-by-step instructions on how to build a bookshelf. Building your own bookshelf allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and attractive bookshelf that will display your books and other items with pride.",
       "materialsNeeded": [
@@ -51,7 +51,7 @@ exports.guides =   [
    "img_url":"https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
-      "_id":"2",
+      "_id":2,
 
       "title": "Desk Assembly Guide",
       "introduction": "This comprehensive desk assembly guide will provide you with step-by-step instructions on how to assemble your new desk efficiently and correctly. Please read through the entire guide before beginning the assembly process to familiarize yourself with the steps involved. Gather all the necessary tools and components mentioned in the manufacturer's instructions before you start.",
@@ -100,7 +100,7 @@ exports.guides =   [
    "img_url":"https://images.pexels.com/photos/3653849/pexels-photo-3653849.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
-      "_id":"3",
+      "_id":3,
 
       "title": "Guide to Building a Library",
       "introduction": "This comprehensive guide will provide you with step-by-step instructions on how to build your own library, whether it's a personal home library or a community library. Creating a space dedicated to books can be a rewarding project that promotes learning, discovery, and a love for literature. Read through the entire guide and adapt the steps to suit your specific needs and available resources.",
@@ -151,7 +151,7 @@ exports.guides =   [
 
     },
 {
-  "_id":"4",
+  "_id":4,
 
 "title": "Wardrobe Assembly Guide",
 "introduction": "This comprehensive wardrobe assembly guide will provide you with step-by-step instructions on how to assemble your new wardrobe efficiently and correctly. Please read through the entire guide before beginning the assembly process to familiarize yourself with the steps involved. Gather all the necessary tools and components mentioned in the manufacturer's instructions before you start.\n\nNote: The specific assembly instructions may vary depending on the design and brand of your wardrobe. This guide aims to provide general guidance that can be applied to most wardrobe assembly processes.",
@@ -201,7 +201,7 @@ exports.guides =   [
 
 },
 {
-  "_id":"5",
+  "_id":5,
 
   "title": "Guide to Building a Bed",
   "introduction": "This comprehensive guide will provide you with step-by-step instructions on how to build your own bed. Building your own bed can be a rewarding project that allows you to customize the design, size, and materials to suit your preferences. Read through the entire guide before starting the construction process and gather all the necessary tools and materials to ensure a smooth and successful project.\n\nNote: The specific instructions may vary depending on the bed design you choose. This guide aims to provide general guidance that can be applied to most bed construction projects.",
@@ -269,7 +269,7 @@ exports.guides =   [
 
 },
 {
-  "_id":"6",
+  "_id":6,
 
   "title": "Building a Pergola - Step-by-Step Guide",
   "steps": [
@@ -298,7 +298,7 @@ exports.guides =   [
 
 },
 {
-  "_id":"7",
+  "_id":7,
 
   "title": "Thin Brick Installation Guide",
   "steps": [
@@ -330,7 +330,7 @@ exports.guides =   [
 
 },
 {
-  "_id":"8",
+  "_id":8,
 
   "title": "Building a Chair: Step-by-Step Guide",
   "steps": [

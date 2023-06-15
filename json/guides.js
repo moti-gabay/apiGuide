@@ -146,6 +146,16 @@ exports.guides =   [
           "description": "Develop Library Policies and Rules: Establish guidelines and policies for the use of your library, particularly if it is a community library. Determine the borrowing system, opening hours, noise restrictions, and any other rules that will help maintain the library's organization and function. Create signage and display the library's policies prominently."
         }
       ],
+      "materialsNeeded":[
+        "Shelving Units or Bookcases",
+        "Screws and Hardware",
+        " Lighting Fixtures",
+        "Anchors",
+        "screwdriver, drill, level, measuring tape, and a stud finder (if anchoring to the wall). ",
+        "Paint and Painting Supplies",
+        " bookends, bookplates, labels, library cards, a checkout system",
+
+      ],
       "conclusion": "By following this guide, you can build a functional and inviting library space that fosters a love for books and knowledge. Remember to adapt the steps to suit your specific needs and resources. Enjoy the process of creating a space where people can explore, learn, and discover the joy of reading.",
       "img_url":"https://images.pexels.com/photos/1106468/pexels-photo-1106468.jpeg?auto=compress&cs=tinysrgb&w=1600"
 
@@ -269,9 +279,31 @@ exports.guides =   [
 
 },
 {
-  "_id":6,
-
+  "_id": 6,
   "title": "Building a Pergola - Step-by-Step Guide",
+  "materialsNeeded": [
+    "Lumber",
+    "Posts",
+    "Beams",
+    "Rafters",
+    "Screws",
+    "Brackets",
+    "Concrete mix",
+    "Post anchors",
+    "Circular saw",
+    "Drill",
+    "Level",
+    "Tape measure",
+    "Post hole digger",
+    "Ladder",
+    "Stakes",
+    "String",
+    "Sandpaper",
+    "Protective finish or stain",
+    "Landscaping materials (climbing plants, hanging baskets)",
+    "Outdoor lighting",
+    "Outdoor furniture"
+  ],
   "steps": [
     {
       "stepNumber": 1,
@@ -294,13 +326,29 @@ exports.guides =   [
       "description": "Finishing Touches\n\n1. Sand and Finish: Smooth any rough edges or surfaces using sandpaper. Apply a protective finish or stain to the wood to enhance its durability and appearance. Follow the manufacturer's instructions for application and drying times.\n\n2. Landscaping and Decoration: Complete the look of your pergola by landscaping the surrounding area. Consider adding climbing plants, hanging baskets, or outdoor lighting to create an inviting atmosphere.\n\n3. Furnish and Enjoy: Place outdoor furniture, such as seating or a dining set, under your pergola to create a comfortable and functional outdoor space. Enjoy the shade and ambiance provided by your newly built pergola."
     }
   ],
-  "img_url":"https://media.istockphoto.com/id/1368936511/photo/gazebo-build.jpg?b=1&s=612x612&w=0&k=20&c=XYixBCB7uhfe4jfNJyM9m-Qpey75PXf_AyGpjE1Z9iU="
+  "img_url": "https://media.istockphoto.com/id/1368936511/photo/gazebo-build.jpg?b=1&s=612x612&w=0&k=20&c=XYixBCB7uhfe4jfNJyM9m-Qpey75PXf_AyGpjE1Z9iU=",
+  "conclusion": "Building a pergola can be a rewarding project that adds both beauty and functionality to your outdoor space. By following this step-by-step guide, you can create a sturdy and visually appealing structure that provides shade and a relaxing atmosphere. Remember to carefully plan and prepare, obtain any necessary permits, and gather all the required materials and tools before starting. Take your time during each step, ensuring proper measurements, levelness, and secure installations. Once the pergola is built, don't forget to add finishing touches such as sanding, applying a protective finish or stain, and incorporating landscaping elements and outdoor lighting. Finally, furnish the pergola with outdoor furniture to create a comfortable and enjoyable space where you can relax and entertain. Enjoy the fruits of your labor and the beauty of your new pergola!" 
 
 },
 {
-  "_id":7,
-
+  "_id": 7,
   "title": "Thin Brick Installation Guide",
+  "materialsNeeded": [
+    "Thin bricks",
+    "Adhesive mortar",
+    "Grout (if desired)",
+    "Trowel",
+    "Notched trowel",
+    "Wet saw or tile cutter",
+    "Level",
+    "Sponge",
+    "Bucket",
+    "Safety equipment (gloves, goggles)",
+    "Primer (if necessary)",
+    "Brick sealer (if desired)",
+    "Mild detergent",
+    "Soft brush or sponge"
+  ],
   "steps": [
     {
       "stepNumber": 1,
@@ -316,23 +364,35 @@ exports.guides =   [
     },
     {
       "stepNumber": 4,
-      "description": "Grouting (if desired)\n\n1. Mix Grout (if using): If you prefer a grouted look, mix the grout according to the manufacturer's instructions. Choose a color that complements your thin bricks.\n\n2. Apply Grout: Using a grout float or a trowel, spread the grout over the surface, making sure to fill the gaps between the bricks completely. Hold the float at a 45-degree angle and push the grout into the joints.\n\n3. Clean Excess Grout: After allowing the grout to set for a few minutes, gently wipe away the excess grout from the brick surfaces using a damp sponge. Rinse the sponge frequently and avoid removing too much grout from the joints."
+      "description": "Grouting (if desired)\n\n1. Mix Grout (if using): If you prefer a grouted look, mix the grout according to the manufacturer's instructions. Choose a color that complements your thin bricks.2. Apply Grout: Using a grout float or a trowel, spread the grout over the surface, making sure to fill the gaps between the bricks completely. Hold the float at a 45-degree angle and push the grout into the joints.3. Clean Excess Grout: After allowing the grout to set for a few minutes, gently wipe away the excess grout from the brick surfaces using a damp sponge. Rinse the sponge frequently and avoid removing too much grout from the joints."
     },
     {
-
-
       "stepNumber": 5,
       "description": "Finishing Touches\n\n1. Allow for Drying and Curing: Follow the manufacturer's instructions for drying and curing times of the adhesive mortar and grout. Avoid touching or disturbing the installation during this period.\n\n2. Seal (if desired): Consider applying a brick sealer to protect the surface and enhance the color and durability of the thin bricks. Follow the manufacturer's instructions for application and drying times.\n\n3. Clean and Maintain: Regularly clean the surface of your thin brick installation using a mild detergent and a soft brush or sponge. Avoid using abrasive cleaners that could damage the bricks or grout."
     }
   ],
-  "img_url":"https://media.istockphoto.com/id/1133685683/photo/worker-carpenter-doing-laminate-floor-work.jpg?b=1&s=612x612&w=0&k=20&c=zCWUNDMOe6n5Q-YzYtpdwbpx08AK3z6C4OT_58wBp0w="
-
-
+  "img_url": "https://media.istockphoto.com/id/1133685683/photo/worker-carpenter-doing-laminate-floor-work.jpg?b=1&s=612x612&w=0&k=20&c=zCWUNDMOe6n5Q-YzYtpdwbpx08AK3z6C4OT_58wBp0w=",
+  "conclusion": "Installing thin bricks can be a great way to add a unique and attractive element to your home. By following this step-by-step guide, you can successfully complete a thin brick installation project. Remember to plan and prepare the surface properly, gather all the necessary materials and tools, and follow the manufacturer's instructions for adhesive mortar, grout (if used), and sealant. Take your time during the installation process to ensure the bricks are level, aligned, and properly adhered. Once the installation is complete, allow for adequate drying and curing time before sealing and cleaning the surface. With proper maintenance, your thin brick installation will enhance the aesthetic appeal of your space for years to come.",
 },
 {
-  "_id":8,
-
+  "_id": 8,
   "title": "Building a Chair: Step-by-Step Guide",
+  "materialsNeeded": [
+    "Lumber (suitable wood species)",
+    "Screws",
+    "Wood glue",
+    "Sandpaper (various grits)",
+    "Finishes (paint, stain, varnish, oil)",
+    "Upholstery or cushions (optional)",
+    "Clamps",
+    "Saw (circular or jigsaw)",
+    "Drill with various drill bits",
+    "Sander",
+    "Tape measure",
+    "Square",
+    "Set of chisels",
+    "Safety equipment (goggles, gloves, dust mask)"
+  ],
   "steps": [
     {
       "stepNumber": 1,
@@ -348,7 +408,7 @@ exports.guides =   [
     },
     {
       "stepNumber": 4,
-      "description": "Assembly and Joinery\n\n1. Dry Fit the Pieces: Before final assembly, dry fit the chair components together to ensure they fit properly and make any necessary adjustments.\n\n2. Apply Glue and Fastenings: Apply wood glue to the mating surfaces and join the chair components together. Use clamps to hold the pieces firmly in place while the glue dries. Reinforce joints with screws or appropriate fasteners where necessary.\n\n3. Check for Stability and Alignment: Use a square and a level to ensure the chair is square and stable. Make any adjustments as needed to achieve proper alignment and balance."
+      "description": "Assembly and Joinery 1. Dry Fit the Pieces: Before final assembly, dry fit the chair components together to ensure they fit properly and make any necessary adjustments. 2. Apply Glue and Fastenings: Apply wood glue to the mating surfaces and join the chair components together. Use clamps to hold the pieces firmly in place while the glue dries. Reinforce joints with screws or appropriate fasteners where necessary. 3. Check for Stability and Alignment: Use a square and a level to ensure the chair is square and stable. Make any adjustments as needed to achieve proper alignment and balance."
     },
     {
       "stepNumber": 5,
@@ -359,7 +419,7 @@ exports.guides =   [
       "description": "Final Checks and Maintenance\n\n1. Inspect for Quality: Thoroughly inspect the finished chair for any loose joints, sharp edges, or imperfections. Make necessary adjustments or repairs to ensure a high-quality final product.\n\n2. Maintain and Care for Your Chair: Regularly clean and maintain your chair to preserve its beauty and functionality. Follow the recommended care instructions for the specific type of finish you applied."
     }
   ],
-  "img_url":"https://images.pexels.com/photos/4273440/pexels-photo-4273440.jpeg?auto=compress&cs=tinysrgb&w=300"
-
+  "img_url": "https://images.pexels.com/photos/4273440/pexels-photo-4273440.jpeg?auto=compress&cs=tinysrgb&w=300",
+  "conclusion": "Building a chair from scratch can be a rewarding woodworking project. By following this step-by-step guide, you can create a custom chair that suits your style and preferences. Start with careful planning and design, considering the chair style, measurements, and materials needed. Gather all the necessary materials and tools before proceeding. Cutting and shaping the wood components require precision and attention to detail. Take your time to ensure accurate measurements and smooth surfaces. Assemble the chair using glue, fasteners, and proper joinery techniques, checking for stability and alignment. Finish the chair with sanding and applying the desired finish or paint. Optionally, add upholstery or cushions for added comfort. Finally, inspect the chair for quality, making any necessary adjustments, and maintain it regularly to prolong its lifespan. Enjoy the satisfaction of sitting in a chair that you built with your own hands!"
 }
 ] 

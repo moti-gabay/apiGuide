@@ -281,6 +281,7 @@ exports.guides =   [
 {
   "_id": 6,
   "title": "Building a Pergola - Step-by-Step Guide",
+  "introduction": "A pergola is a wonderful addition to any outdoor space, providing shade, architectural interest, and a place to relax and entertain. Whether you want to create a cozy seating area, an outdoor dining space, or a beautiful entrance to your garden, building a pergola can transform your backyard. This step-by-step guide will take you through the process of constructing a pergola, from planning and preparation to the finishing touches. By following these instructions and using the right materials and tools, you can build a sturdy and visually appealing pergola that will enhance your outdoor living experience.",
   "materialsNeeded": [
     "Lumber",
     "Posts",
@@ -317,6 +318,8 @@ exports.guides =   [
       "stepNumber": 3,
       "description": "Installing the Support Beams and Rafters\n\n1. Measure and Cut Beams: Measure the distance between the posts to determine the length of the support beams. Cut the beams to size using a circular saw, ensuring they fit snugly between the posts.\n\n2. Attach Beams to Posts: Position the support beams on top of the posts and secure them using appropriate brackets and screws. Double-check the levelness and adjust as necessary.\n\n3. Install Rafters: Cut and install the rafters perpendicular to the support beams, spacing them evenly. Secure them in place with brackets and screws."
     },
+
+
     {
       "stepNumber": 4,
       "description": "Adding Cross Bracing and Decorative Elements\n\n1. Add Cross Bracing: Install diagonal cross braces between the support beams and posts for added stability. Cut the braces to size and attach them securely using screws or brackets.\n\n2. Incorporate Decorative Elements: Enhance the aesthetic appeal of your pergola by adding decorative elements such as lattice panels, purlins, or trellises. Install these elements according to your design plan."
@@ -327,12 +330,12 @@ exports.guides =   [
     }
   ],
   "img_url": "https://media.istockphoto.com/id/1368936511/photo/gazebo-build.jpg?b=1&s=612x612&w=0&k=20&c=XYixBCB7uhfe4jfNJyM9m-Qpey75PXf_AyGpjE1Z9iU=",
-  "conclusion": "Building a pergola can be a rewarding project that adds both beauty and functionality to your outdoor space. By following this step-by-step guide, you can create a sturdy and visually appealing structure that provides shade and a relaxing atmosphere. Remember to carefully plan and prepare, obtain any necessary permits, and gather all the required materials and tools before starting. Take your time during each step, ensuring proper measurements, levelness, and secure installations. Once the pergola is built, don't forget to add finishing touches such as sanding, applying a protective finish or stain, and incorporating landscaping elements and outdoor lighting. Finally, furnish the pergola with outdoor furniture to create a comfortable and enjoyable space where you can relax and entertain. Enjoy the fruits of your labor and the beauty of your new pergola!" 
-
+  "conclusion": "Building a pergola can be a rewarding project that adds both beauty and functionality to your outdoor space. By following this step-by-step guide, you can create a sturdy and visually appealing structure that provides shade and a relaxing atmosphere. Remember to carefully plan and prepare, obtain any necessary permits, and gather all the required materials and tools before starting. Take your time during each step, ensuring proper measurements, levelness, and secure installations. Once the pergola is built, don't forget to add finishing touches such as sanding, applying a protective finish or stain, and incorporating landscaping elements and outdoor lighting. Finally, furnish the pergola with outdoor furniture to create a comfortable and enjoyable space where you can relax and entertain. Enjoy the fruits of your labor and the beauty of your new pergola!"
 },
 {
   "_id": 7,
   "title": "Thin Brick Installation Guide",
+  "introduction": "Installing thin bricks can be a great way to add a unique and attractive element to your home. Whether you're creating an accent wall, a fireplace surround, a backsplash, or an exterior facade, thin brick installation can transform the look of your space. This step-by-step guide will take you through the process of installing thin bricks, from planning and surface preparation to the final finishing touches. By following these instructions and using the right materials and tools, you can successfully complete a thin brick installation project that enhances the aesthetic appeal of your space.",
   "materialsNeeded": [
     "Thin bricks",
     "Adhesive mortar",
@@ -364,7 +367,7 @@ exports.guides =   [
     },
     {
       "stepNumber": 4,
-      "description": "Grouting (if desired)\n\n1. Mix Grout (if using): If you prefer a grouted look, mix the grout according to the manufacturer's instructions. Choose a color that complements your thin bricks.2. Apply Grout: Using a grout float or a trowel, spread the grout over the surface, making sure to fill the gaps between the bricks completely. Hold the float at a 45-degree angle and push the grout into the joints.3. Clean Excess Grout: After allowing the grout to set for a few minutes, gently wipe away the excess grout from the brick surfaces using a damp sponge. Rinse the sponge frequently and avoid removing too much grout from the joints."
+      "description": "Grouting (if desired)\n\n1. Mix Grout (if using): If you prefer a grouted look, mix the grout according to the manufacturer's instructions. Choose a color that complements your thin bricks.\n\n2. Apply Grout: Using a grout float or a trowel, spread the grout over the surface, making sure to fill the gaps between the bricks completely. Hold the float at a 45-degree angle and push the grout into the joints.\n\n3. Clean Excess Grout: After allowing the grout to set for a few minutes, gently wipe away the excess grout from the brick surfaces using a damp sponge. Rinse the sponge frequently and avoid removing too much grout from the joints."
     },
     {
       "stepNumber": 5,
@@ -372,11 +375,12 @@ exports.guides =   [
     }
   ],
   "img_url": "https://media.istockphoto.com/id/1133685683/photo/worker-carpenter-doing-laminate-floor-work.jpg?b=1&s=612x612&w=0&k=20&c=zCWUNDMOe6n5Q-YzYtpdwbpx08AK3z6C4OT_58wBp0w=",
-  "conclusion": "Installing thin bricks can be a great way to add a unique and attractive element to your home. By following this step-by-step guide, you can successfully complete a thin brick installation project. Remember to plan and prepare the surface properly, gather all the necessary materials and tools, and follow the manufacturer's instructions for adhesive mortar, grout (if used), and sealant. Take your time during the installation process to ensure the bricks are level, aligned, and properly adhered. Once the installation is complete, allow for adequate drying and curing time before sealing and cleaning the surface. With proper maintenance, your thin brick installation will enhance the aesthetic appeal of your space for years to come.",
+  "conclusion": "Installing thin bricks can be a great way to add a unique and attractive element to your home. By following this step-by-step guide, you can successfully complete a thin brick installation project. Remember to plan and prepare the surface properly, gather all the necessary materials and tools, and follow the manufacturer's instructions for adhesive mortar, grout (if used), and sealant. Take your time during the installation process to ensure the bricks are level, aligned, and properly adhered. Once the installation is complete, allow for adequate drying and curing time before sealing and cleaning the surface. With proper maintenance, your thin brick installation will enhance the aesthetic appeal of your space for years to come."
 },
 {
   "_id": 8,
   "title": "Building a Chair: Step-by-Step Guide",
+  "introduction": "Building a chair from scratch can be a rewarding woodworking project. Whether you're a beginner or an experienced woodworker, creating a custom chair allows you to showcase your craftsmanship and tailor the design to your preferences. This step-by-step guide will take you through the process of building a chair, from planning and gathering materials to assembly and finishing touches. With careful attention to detail and the right tools, you'll soon have a beautiful chair that you can proudly use and display in your home.",
   "materialsNeeded": [
     "Lumber (suitable wood species)",
     "Screws",
@@ -408,7 +412,7 @@ exports.guides =   [
     },
     {
       "stepNumber": 4,
-      "description": "Assembly and Joinery 1. Dry Fit the Pieces: Before final assembly, dry fit the chair components together to ensure they fit properly and make any necessary adjustments. 2. Apply Glue and Fastenings: Apply wood glue to the mating surfaces and join the chair components together. Use clamps to hold the pieces firmly in place while the glue dries. Reinforce joints with screws or appropriate fasteners where necessary. 3. Check for Stability and Alignment: Use a square and a level to ensure the chair is square and stable. Make any adjustments as needed to achieve proper alignment and balance."
+      "description": "Assembly and Joinery\n\n1. Dry Fit the Pieces: Before final assembly, dry fit the chair components together to ensure they fit properly and make any necessary adjustments.\n\n2. Apply Glue and Fastenings: Apply wood glue to the mating surfaces and join the chair components together. Use clamps to hold the pieces firmly in place while the glue dries. Reinforce joints with screws or appropriate fasteners where necessary.\n\n3. Check for Stability and Alignment: Use a square and a level to ensure the chair is square and stable. Make any adjustments as needed to achieve proper alignment and balance."
     },
     {
       "stepNumber": 5,

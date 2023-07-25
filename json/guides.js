@@ -1,6 +1,6 @@
 exports.guides =   [
   {
-    "_id":1,
+    "_id":"1",
       "title": "Guide to Building a Bookshelf",
       "introduction": "This guide will provide you with step-by-step instructions on how to build a bookshelf. Building your own bookshelf allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and attractive bookshelf that will display your books and other items with pride.",
       "materialsNeeded": [
@@ -51,7 +51,7 @@ exports.guides =   [
    "img_url":"https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
-      "_id":2,
+      "_id":"2",
 
       "title": "Desk Assembly Guide",
       "introduction": "This comprehensive desk assembly guide will provide you with step-by-step instructions on how to assemble your new desk efficiently and correctly. Please read through the entire guide before beginning the assembly process to familiarize yourself with the steps involved. Gather all the necessary tools and components mentioned in the manufacturer's instructions before you start.",
@@ -100,7 +100,7 @@ exports.guides =   [
    "img_url":"https://images.pexels.com/photos/3653849/pexels-photo-3653849.jpeg?auto=compress&cs=tinysrgb&w=1600"
     },
     {
-      "_id":3,
+      "_id":"3",
 
       "title": "Guide to Building a Library",
       "introduction": "This comprehensive guide will provide you with step-by-step instructions on how to build your own library, whether it's a personal home library or a community library. Creating a space dedicated to books can be a rewarding project that promotes learning, discovery, and a love for literature. Read through the entire guide and adapt the steps to suit your specific needs and available resources.",
@@ -161,7 +161,7 @@ exports.guides =   [
 
     },
 {
-  "_id":4,
+  "_id":"4",
 
 "title": "Wardrobe Assembly Guide",
 "introduction": "This comprehensive wardrobe assembly guide will provide you with step-by-step instructions on how to assemble your new wardrobe efficiently and correctly. Please read through the entire guide before beginning the assembly process to familiarize yourself with the steps involved. Gather all the necessary tools and components mentioned in the manufacturer's instructions before you start.\n\nNote: The specific assembly instructions may vary depending on the design and brand of your wardrobe. This guide aims to provide general guidance that can be applied to most wardrobe assembly processes.",
@@ -211,7 +211,7 @@ exports.guides =   [
 
 },
 {
-  "_id":5,
+  "_id":"5",
 
   "title": "Guide to Building a Bed",
   "introduction": "This comprehensive guide will provide you with step-by-step instructions on how to build your own bed. Building your own bed can be a rewarding project that allows you to customize the design, size, and materials to suit your preferences. Read through the entire guide before starting the construction process and gather all the necessary tools and materials to ensure a smooth and successful project.\n\nNote: The specific instructions may vary depending on the bed design you choose. This guide aims to provide general guidance that can be applied to most bed construction projects.",
@@ -279,7 +279,7 @@ exports.guides =   [
 
 },
 {
-  "_id": 6,
+  "_id":"6",
   "title": "Building a Pergola - Step-by-Step Guide",
   "introduction": "A pergola is a wonderful addition to any outdoor space, providing shade, architectural interest, and a place to relax and entertain. Whether you want to create a cozy seating area, an outdoor dining space, or a beautiful entrance to your garden, building a pergola can transform your backyard. This step-by-step guide will take you through the process of constructing a pergola, from planning and preparation to the finishing touches. By following these instructions and using the right materials and tools, you can build a sturdy and visually appealing pergola that will enhance your outdoor living experience.",
   "materialsNeeded": [
@@ -333,7 +333,7 @@ exports.guides =   [
   "conclusion": "Building a pergola can be a rewarding project that adds both beauty and functionality to your outdoor space. By following this step-by-step guide, you can create a sturdy and visually appealing structure that provides shade and a relaxing atmosphere. Remember to carefully plan and prepare, obtain any necessary permits, and gather all the required materials and tools before starting. Take your time during each step, ensuring proper measurements, levelness, and secure installations. Once the pergola is built, don't forget to add finishing touches such as sanding, applying a protective finish or stain, and incorporating landscaping elements and outdoor lighting. Finally, furnish the pergola with outdoor furniture to create a comfortable and enjoyable space where you can relax and entertain. Enjoy the fruits of your labor and the beauty of your new pergola!"
 },
 {
-  "_id": 7,
+  "_id": "7",
   "title": "Thin Brick Installation Guide",
   "introduction": "Installing thin bricks can be a great way to add a unique and attractive element to your home. Whether you're creating an accent wall, a fireplace surround, a backsplash, or an exterior facade, thin brick installation can transform the look of your space. This step-by-step guide will take you through the process of installing thin bricks, from planning and surface preparation to the final finishing touches. By following these instructions and using the right materials and tools, you can successfully complete a thin brick installation project that enhances the aesthetic appeal of your space.",
   "materialsNeeded": [
@@ -378,7 +378,7 @@ exports.guides =   [
   "conclusion": "Installing thin bricks can be a great way to add a unique and attractive element to your home. By following this step-by-step guide, you can successfully complete a thin brick installation project. Remember to plan and prepare the surface properly, gather all the necessary materials and tools, and follow the manufacturer's instructions for adhesive mortar, grout (if used), and sealant. Take your time during the installation process to ensure the bricks are level, aligned, and properly adhered. Once the installation is complete, allow for adequate drying and curing time before sealing and cleaning the surface. With proper maintenance, your thin brick installation will enhance the aesthetic appeal of your space for years to come."
 },
 {
-  "_id": 8,
+  "_id": "8",
   "title": "Building a Chair: Step-by-Step Guide",
   "introduction": "Building a chair from scratch can be a rewarding woodworking project. Whether you're a beginner or an experienced woodworker, creating a custom chair allows you to showcase your craftsmanship and tailor the design to your preferences. This step-by-step guide will take you through the process of building a chair, from planning and gathering materials to assembly and finishing touches. With careful attention to detail and the right tools, you'll soon have a beautiful chair that you can proudly use and display in your home.",
   "materialsNeeded": [

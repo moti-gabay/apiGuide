@@ -846,7 +846,178 @@ exports.guides =   [
   ],
   "conclusion": "Congratulations on making an informed choice for your armchair! By considering the factors mentioned in this guide, you're well-equipped to select an armchair that enhances both comfort and style in your living space.",
   "img_url": "https://images.pexels.com/photos/4302055/pexels-photo-4302055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+},
+  {
+  "_id": "17",
+  "title": "Guide to Building a Dresser",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a dresser. Building your own dresser allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and stylish dresser that will help you organize your clothing and belongings.",
+  "materialsNeeded": [
+    "Wooden boards (choose the size and type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Drawer slides",
+    "Drawer knobs or handles",
+    "Paint or wood stain (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your dresser and sketch out a design. Consider the number of drawers and their sizes based on your storage needs."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your dresser a polished look and prevent splinters."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Begin by building the main frame of the dresser, including the sides, top, and bottom. Use screws and wood glue to secure the joints. Use a level to ensure the dresser is level and square."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Install the drawers: Attach drawer slides to the sides of the dresser frame and the drawers. Position the drawers within the frame and secure them to the slides."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Add drawer fronts: Attach the front panels of the drawers and secure them in place. Attach knobs or handles to the drawer fronts."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the dresser according to your preference. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Placement and organization: Once the finish has dried, move the dresser to its desired location. Organize your clothing and belongings in the drawers, and appreciate your completed dresser."
+    }
+  ],
+  "conclusion": "Congratulations on building your own dresser! By following this guide, you've crafted a functional piece of furniture that meets your storage needs and complements your decor. Enjoy the satisfaction of having a customized dresser that helps you stay organized and enhances your living space.",
+  "img_url": "https://images.pexels.com/photos/3817942/pexels-photo-3817942.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "18",
+  "title": "Guide to Building a Nightstand",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. Building your own nightstand allows you to create a unique and functional piece of furniture that complements your bedroom decor. Follow this guide to craft a nightstand that adds both style and utility to your sleeping space.",
+  "materialsNeeded": [
+    "Wooden boards (choose the type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Stain or paint (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your nightstand and sketch out a design that suits your bedroom aesthetics."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Always prioritize safety by wearing goggles and gloves."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Smooth the edges: Use sandpaper to smooth out any rough edges and surfaces of the cut boards for a polished appearance."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Attach the boards together to create the frame of the nightstand. Use screws and wood glue for secure joints, and ensure the frame is level."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add the shelves or drawers: If desired, incorporate shelves or drawers within the frame to provide storage space. Secure them carefully."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Apply finish: Sand the surfaces once more and then apply stain or paint for the desired finish. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Final touches: Attach any hardware, such as knobs or handles, to the drawers or doors. Check for stability and make any necessary adjustments."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Placement and enjoyment: Once the nightstand is ready, place it in your bedroom according to your preference. Enjoy the convenience and style it brings to your space."
+    }
+  ],
+  "conclusion": "Congratulations on successfully building your own nightstand! You've now added a personal touch to your bedroom with a functional and stylish piece of furniture. Make sure to take pride in your craftsmanship and enjoy the benefits of your creation.",
+  "img_url": "https://images.pexels.com/photos/1231265/pexels-photo-1231265.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "19",
+  "title": "Guide to Building a Nightstand",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. A nightstand is a versatile piece of furniture that can add both functionality and aesthetics to your bedroom. Follow this guide to create a stylish and functional nightstand that complements your bedroom decor.",
+  "materialsNeeded": [
+    "Wooden boards (choose the type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Drawer knobs or pulls",
+    "Paint or wood stain (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your nightstand and create a design that suits your bedroom style."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper to prepare for assembly."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Construct the basic frame of the nightstand by attaching the sides, top, and bottom boards using screws and wood glue."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add the drawer: If your nightstand design includes a drawer, assemble the drawer using the appropriate boards and hardware."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Attach hardware: Install drawer knobs or pulls to the drawer front to add a functional and decorative element."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Finishing touches: Sand any rough areas, and if desired, paint or stain the nightstand to match your bedroom decor."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Placement and use: Once the finish has dried, place your nightstand in your bedroom and enjoy the added convenience and style it brings."
+    }
+  ],
+  "conclusion": "Congratulations on successfully building your own nightstand! This piece of furniture adds both practicality and charm to your bedroom. Customize it to suit your personal taste and elevate your bedroom space.",
+  "img_url": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1600"
 }
+
+
+
 
 
 

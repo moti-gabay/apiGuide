@@ -801,7 +801,53 @@ exports.guides =   [
   ],
   "conclusion": "Congratulations on building your own bookshelf! By following this guide, you've created a customized piece of furniture that perfectly suits your needs. Enjoy the satisfaction of displaying your books and personal items in a functional and aesthetically pleasing way. Remember to prioritize safety throughout the construction process and have fun with your project!",
   "img_url": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},{
+  "_id": "16",
+  "title": "Guide to Choosing the Perfect Armchair",
+  "introduction": "This guide will help you select the ideal armchair for your living space. Armchairs are not only functional but also contribute to the overall aesthetics of your room. Follow this guide to understand the factors to consider when choosing an armchair that suits your comfort and style preferences.",
+  "factorsToConsider": [
+    "Size of the armchair and available space in the room",
+    "Armchair style and design that complements your interior",
+    "Comfort level, including seat cushioning and back support",
+    "Fabric or material of the upholstery, considering durability and maintenance",
+    "Color or pattern that matches the room's color scheme",
+    "Additional features like reclining, swivel, or rocking capabilities",
+    "Budget and pricing of the armchair"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Assess the available space: Measure the area where you intend to place the armchair to ensure it fits comfortably."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Choose a style: Decide on the armchair style that aligns with your room's decor, whether it's modern, traditional, or eclectic."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Prioritize comfort: Test the armchair's comfort by sitting in it. Check the seat cushioning, back support, and armrest height."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Evaluate upholstery: Select an upholstery material that suits your lifestyle. Consider factors such as durability and ease of cleaning."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Coordinate with room design: Choose a color or pattern that complements the existing color scheme and aesthetic of the room."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Explore additional features: Decide if you want any extra features like reclining, swivel, or rocking functionality."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Set a budget: Determine your budget range and explore armchairs that align with your financial plan."
+    }
+  ],
+  "conclusion": "Congratulations on making an informed choice for your armchair! By considering the factors mentioned in this guide, you're well-equipped to select an armchair that enhances both comfort and style in your living space.",
+  "img_url": "https://images.pexels.com/photos/4302055/pexels-photo-4302055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
 }
+
 
 
 

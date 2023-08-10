@@ -1014,7 +1014,59 @@ exports.guides =   [
   ],
   "conclusion": "Congratulations on successfully building your own nightstand! This piece of furniture adds both practicality and charm to your bedroom. Customize it to suit your personal taste and elevate your bedroom space.",
   "img_url": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "20",
+  "title": "Guide to Building a Bench",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a bench. Building your own bench allows you to create a comfortable seating solution that complements your space and style. Follow this guide to construct a sturdy and visually appealing bench that can be a great addition to your home.",
+  "materialsNeeded": [
+    "Wooden boards (choose the type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Paint or wood stain (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Plan and measure: Determine the dimensions of your bench and create a design. Consider the seating height, width, and backrest angle."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Ensure accurate cuts for a precise fit."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the boards: Smooth the edges and surfaces of the boards using sandpaper to prevent splinters and create a polished appearance."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the base: Attach the legs and support beams to create the base of the bench. Use wood glue and screws for secure connections."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add the seat and backrest: Attach the seat boards and backrest boards to the base. Ensure proper spacing and use a level to maintain balance."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bench to enhance its appearance. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Placement and enjoyment: Once the finish is dry, place the bench in your desired location. Admire your handiwork and enjoy the comfort of your newly built bench."
+    }
+  ],
+  "conclusion": "Congratulations on successfully building your own bench! By following this guide, you've created a customized piece of furniture that offers both functionality and aesthetics. Whether placed indoors or outdoors, your bench will provide a comfortable spot for relaxation. Remember to prioritize safety throughout the construction process and take pride in your craftsmanship.",
+  "img_url": "https://images.pexels.com/photos/3859977/pexels-photo-3859977.jpeg?auto=compress&cs=tinysrgb&w=1600"
 }
+
 
 
 

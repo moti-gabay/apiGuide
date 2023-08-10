@@ -425,5 +425,112 @@ exports.guides =   [
   ],
   "img_url": "https://images.pexels.com/photos/4273440/pexels-photo-4273440.jpeg?auto=compress&cs=tinysrgb&w=300",
   "conclusion": "Building a chair from scratch can be a rewarding woodworking project. By following this step-by-step guide, you can create a custom chair that suits your style and preferences. Start with careful planning and design, considering the chair style, measurements, and materials needed. Gather all the necessary materials and tools before proceeding. Cutting and shaping the wood components require precision and attention to detail. Take your time to ensure accurate measurements and smooth surfaces. Assemble the chair using glue, fasteners, and proper joinery techniques, checking for stability and alignment. Finish the chair with sanding and applying the desired finish or paint. Optionally, add upholstery or cushions for added comfort. Finally, inspect the chair for quality, making any necessary adjustments, and maintain it regularly to prolong its lifespan. Enjoy the satisfaction of sitting in a chair that you built with your own hands!"
+},
+  {
+  "_id": "9",
+  "title": "Guide to Choosing the Perfect Sofa",
+  "introduction": "This guide will provide you with essential tips and considerations to help you choose the perfect sofa for your living space. A sofa is a central piece of furniture that adds comfort and style to your home. By following this guide, you'll be well-equipped to select a sofa that suits your needs, complements your decor, and enhances the overall ambiance of your room.",
+  "materialsNeeded": [],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Assess your space: Measure the available space in your room where you plan to place the sofa. Consider the dimensions and layout to determine the appropriate size and shape of the sofa."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Determine your style: Choose a sofa style that aligns with your interior design preferences. Whether you prefer modern, traditional, contemporary, or eclectic styles, there's a sofa design to match."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Select a suitable upholstery: Decide on the type of upholstery material you want for your sofa. Options include leather, fabric, microfiber, and more. Consider factors such as comfort, durability, and maintenance."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Consider cushioning and comfort: Evaluate the cushioning and seating comfort of the sofa. Sit on different options to ensure it's comfortable and supportive for your needs."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Check the frame and construction: Inspect the sofa's frame for sturdiness and quality. A solid hardwood frame is preferable for durability."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Test the seating depth and height: Make sure the sofa's seating depth and height are appropriate for your comfort. Your feet should rest comfortably on the floor when seated."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Evaluate color and pattern: Choose a color or pattern that complements your room's color scheme and decor. Consider neutral tones for versatility or bold colors for a statement piece."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Check for additional features: Some sofas come with extra features like reclining options, pull-out beds, or storage compartments. Decide if these features are important for your needs."
+    },
+    {
+      "stepNumber": 9,
+      "description": "Set a budget: Determine your budget range for the sofa purchase. Quality and features can affect the price, so find a balance between your preferences and budget."
+    },
+    {
+      "stepNumber": 10,
+      "description": "Visit stores and try it out: Visit furniture stores to see and test different sofa options. Sit, feel, and visualize how the sofa will fit in your space."
+    }
+  ],
+  "conclusion": "Congratulations on making an informed decision about choosing the perfect sofa! By following this guide, you're well-prepared to find a sofa that matches your style, comfort, and space requirements. Remember that a sofa is an investment in both aesthetics and functionality, so take your time to make the right choice.",
+  "img_url": "https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "10",
+  "title": "Guide to Building a Dining Table",
+  "introduction": "This guide will walk you through the process of building your own dining table. Whether you're a DIY enthusiast or looking to save money on furniture, creating a customized dining table can be a rewarding project. Follow these step-by-step instructions to craft a beautiful dining table that suits your style and space.",
+  "materialsNeeded": [
+    "Wooden boards (choose the type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Stain or paint (optional)",
+    "Paintbrush or roller",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Plan and measure: Determine the dimensions of your dining table, considering the number of people it should seat and the available space in your dining area."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the wood: Using a circular saw or handsaw, cut the wooden boards according to your measurements. Take safety precautions by wearing goggles and gloves."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Smooth the edges: Use sandpaper to smooth the rough edges and surfaces of the cut boards. This will ensure a polished final look and prevent splinters."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the table frame: Attach the table legs to the tabletop using screws and wood glue. Ensure the legs are properly aligned and the table is level."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add support beams: Strengthen the table's structure by attaching support beams between the legs. This will provide stability and prevent wobbling."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Finish the table: Apply stain or paint to the wood for a desired finish. Allow sufficient drying time between coats. Sand lightly between coats for a smoother surface."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Final touches: Once the finish is dry, inspect the table for any rough spots or imperfections. Sand as needed and apply an additional coat if desired."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Place and enjoy: Move your completed dining table to its designated spot. Dress it up with tableware and enjoy meals with family and friends around your handmade masterpiece."
+    }
+  ],
+  "conclusion": "Congratulations on completing your DIY dining table! You've created a functional and personalized piece of furniture that will enhance your dining area. Remember to take your time, follow safety precautions, and enjoy the satisfaction of using a table that you've built yourself.",
+  "img_url": "https://images.pexels.com/photos/4733257/pexels-photo-4733257.jpeg?auto=compress&cs=tinysrgb&w=1600"
 }
+
+
 ] 

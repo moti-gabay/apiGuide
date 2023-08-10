@@ -530,7 +530,279 @@ exports.guides =   [
   ],
   "conclusion": "Congratulations on completing your DIY dining table! You've created a functional and personalized piece of furniture that will enhance your dining area. Remember to take your time, follow safety precautions, and enjoy the satisfaction of using a table that you've built yourself.",
   "img_url": "https://images.pexels.com/photos/4733257/pexels-photo-4733257.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "11",
+  "title": "Guide to Building a Bed",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a bed. Building your own bed allows you to create a comfortable and customized sleeping space that suits your style. Follow this guide to construct a sturdy and attractive bed frame that will provide you with restful nights.",
+  "materialsNeeded": [
+    "Wooden planks (choose the size and type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Mattress",
+    "Box spring (optional, based on your bed design)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your bed frame and headboard. Sketch out a design that suits your bedroom décor and personal taste."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the wooden planks: Use a saw to cut the planks according to your measurements. Be precise and wear safety goggles and work gloves during this step."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the planks: Smooth the rough edges and surfaces of the planks using sandpaper. This will give your bed frame a polished look and prevent splinters."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the bed frame: Begin by connecting the side rails to the headboard and footboard. Use screws and wood glue to ensure a strong and stable frame."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add the slats: Lay the wooden slats evenly across the bed frame to support the mattress. Secure them in place with screws or brackets."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Attach the legs (if applicable): If your bed has legs, attach them securely to the frame using screws and proper alignment."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Finishing touches: Inspect the bed frame for any sharp edges or rough spots. Sand down any imperfections and wipe the frame clean."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Assemble the mattress and box spring: Place the mattress on the slats and, if using, add the box spring for additional support."
+    },
+    {
+      "stepNumber": 9,
+      "description": "Placement and comfort: Move the bed frame to its desired location in your bedroom. Make the bed with your preferred bedding and enjoy your new sleeping space."
+    }
+  ],
+  "conclusion": "Congratulations on building your own bed! With this guide, you've created a personalized sleeping space that reflects your style and craftsmanship. Enjoy comfortable and restful nights in your handmade bed.",
+  "img_url": "https://images.pexels.com/photos/1645953/pexels-photo-1645953.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "12",
+  "title": "Guide to Building a Coffee Table",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a coffee table. Creating your own coffee table allows you to design a unique piece that complements your space and style. Follow this guide to craft a functional and aesthetically pleasing coffee table that will enhance your living area.",
+  "materialsNeeded": [
+    "Wooden planks (choose the type of wood you prefer)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Stain or paint (optional)",
+    "Paintbrush or roller (if finishing)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Plan and measure: Determine the dimensions of your coffee table and sketch a design. Consider the height, width, and shape that will suit your space."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the wood: Use a circular saw to cut the wooden planks according to your measurements. Wear safety goggles and gloves during cutting."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Smooth the edges: Use sandpaper to smooth the cut edges and surfaces of the wooden planks."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Attach the legs to the tabletop using screws and wood glue. Use a level to ensure the frame is balanced."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add support: Attach additional planks underneath the tabletop for extra stability and to create a shelf."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Finishing touches: Sand any rough areas, and apply stain or paint to achieve your desired finish. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Final assembly: Attach any remaining components, such as shelf supports or decorative elements, to complete the coffee table."
+    }
+  ],
+  "conclusion": "Congratulations on successfully building your own coffee table! Following this guide, you've created a personalized piece of furniture that adds both function and style to your living space. Enjoy the satisfaction of crafting a coffee table that reflects your creativity and enhances your home.",
+  "img_url": "https://images.pexels.com/photos/2092351/pexels-photo-2092351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+},
+  {
+  "_id": "13",
+  "title": "Guide to Building a Wardrobe",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a wardrobe. Building your own wardrobe allows you to create a customized storage solution that fits your space and style. Follow this guide to construct a functional and stylish wardrobe to keep your clothes and accessories organized.",
+  "materialsNeeded": [
+    "Wooden boards (choose the type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw",
+    "Measuring tape",
+    "Level",
+    "Hinges",
+    "Handles or knobs",
+    "Clothing rod",
+    "Shelf brackets",
+    "Shelves",
+    "Paint or finish (optional)",
+    "Paintbrush or roller",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your wardrobe and sketch a design. Consider the number of shelves, drawers, and hanging space needed."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw to cut the wooden boards according to your measurements. Wear safety goggles and work gloves during this step."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Assemble the frame: Begin by constructing the main frame of the wardrobe. Attach the sides, top, and bottom using screws and wood glue."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Add doors and hardware: Attach hinges to the doors and then to the wardrobe frame. Install handles or knobs as desired."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Install clothing rod: Attach a clothing rod inside the wardrobe for hanging clothes. Ensure it's level and properly secured."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Add shelves and drawers: Install shelf brackets and slide in shelves. If desired, add drawers by following the manufacturer's instructions."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Finishing touches: Sand any rough edges, and apply paint or finish to the wardrobe for protection and aesthetics. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 8,
+      "description": "Placement and organization: Once the wardrobe is fully assembled and finished, move it to its designated location. Organize your clothes and accessories within the wardrobe."
+    }
+  ],
+  "conclusion": "Congratulations on building your own wardrobe! This guide has helped you create a personalized storage solution for your clothing and belongings. Enjoy the functionality and style of your new wardrobe, and keep your items organized with pride.",
+  "img_url": "https://images.pexels.com/photos/2325823/pexels-photo-2325823.jpeg?auto=compress&cs=tinysrgb&w=1600"
+},
+  {
+  "_id": "14",
+  "title": "Guide to Building a Desk",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a desk. Building your own desk allows you to create a workspace tailored to your needs and preferences. Follow this guide to construct a functional and personalized desk that will enhance your productivity and comfort.",
+  "materialsNeeded": [
+    "Wooden boards (choose the size and type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Paint or wood stain (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your desk and sketch out a design. Consider the height, width, and depth that will best suit your work needs."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Wear safety goggles and work gloves during this step."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will ensure a comfortable and polished workspace."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Attach the legs to the top board using screws and wood glue. Use a level to ensure the desk is stable and level."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add additional features: If desired, attach drawers, shelves, or cable management solutions to enhance the functionality of your desk."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. Apply paint or wood stain for a polished appearance."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Setup and use: Once the finish has dried, place your desk in your desired location. Organize your workspace and start enjoying your new custom-built desk."
+    }
+  ],
+  "conclusion": "Congratulations on building your own desk! With this guide, you've created a workspace that perfectly fits your needs and style. Enjoy the benefits of a well-designed and functional desk for your work and creative endeavors.",
+  "img_url": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&w=1600"
 }
+,
+{
+  "_id": "15",
+  "title": "Guide to Building a Bookshelf",
+  "introduction": "This guide will provide you with step-by-step instructions on how to build a bookshelf. Building your own bookshelf allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and attractive bookshelf that will display your books and other items with pride.",
+  "materialsNeeded": [
+    "Wooden boards (choose the size and type of wood based on your preference)",
+    "Screws",
+    "Wood glue",
+    "Drill",
+    "Circular saw or handsaw",
+    "Measuring tape",
+    "Level",
+    "Sandpaper",
+    "Paint or wood stain (optional)",
+    "Paintbrush or roller (if painting)",
+    "Safety goggles",
+    "Work gloves"
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "description": "Measure and plan: Determine the dimensions of your bookshelf and sketch out a design. Consider the number of shelves and their spacing based on the height of your books."
+    },
+    {
+      "stepNumber": 2,
+      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
+    },
+    {
+      "stepNumber": 3,
+      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your bookshelf a polished look and prevent splinters."
+    },
+    {
+      "stepNumber": 4,
+      "description": "Assemble the frame: Begin by attaching the vertical side boards to the top and bottom boards. Use screws and wood glue to secure the joints. Use a level to ensure the frame is square."
+    },
+    {
+      "stepNumber": 5,
+      "description": "Add the shelves: Position the pre-cut shelves evenly within the frame. Secure them by screwing through the sides of the frame into the shelves."
+    },
+    {
+      "stepNumber": 6,
+      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bookshelf according to your preference. Allow sufficient drying time."
+    },
+    {
+      "stepNumber": 7,
+      "description": "Placement and enjoyment: Once the finish has dried, move the bookshelf to its desired location. Organize your books and other items on the shelves, and admire your completed bookshelf."
+    }
+  ],
+  "conclusion": "Congratulations on building your own bookshelf! By following this guide, you've created a customized piece of furniture that perfectly suits your needs. Enjoy the satisfaction of displaying your books and personal items in a functional and aesthetically pleasing way. Remember to prioritize safety throughout the construction process and have fun with your project!",
+  "img_url": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
+}
+
 
 
 ] 

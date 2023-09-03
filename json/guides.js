@@ -640,432 +640,432 @@ exports.guides =   [
   "conclusion": "Congratulations on successfully building your own coffee table! Following this guide, you've created a personalized piece of furniture that adds both function and style to your living space. Enjoy the satisfaction of crafting a coffee table that reflects your creativity and enhances your home.",
   "img_url": "https://images.pexels.com/photos/2092351/pexels-photo-2092351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 },
-  {
-  "_id": "13",
-  "title": "Guide to Building a Wardrobe",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a wardrobe. Building your own wardrobe allows you to create a customized storage solution that fits your space and style. Follow this guide to construct a functional and stylish wardrobe to keep your clothes and accessories organized.",
-  "materialsNeeded": [
-    "Wooden boards (choose the type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw",
-    "Measuring tape",
-    "Level",
-    "Hinges",
-    "Handles or knobs",
-    "Clothing rod",
-    "Shelf brackets",
-    "Shelves",
-    "Paint or finish (optional)",
-    "Paintbrush or roller",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your wardrobe and sketch a design. Consider the number of shelves, drawers, and hanging space needed."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw to cut the wooden boards according to your measurements. Wear safety goggles and work gloves during this step."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Assemble the frame: Begin by constructing the main frame of the wardrobe. Attach the sides, top, and bottom using screws and wood glue."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Add doors and hardware: Attach hinges to the doors and then to the wardrobe frame. Install handles or knobs as desired."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Install clothing rod: Attach a clothing rod inside the wardrobe for hanging clothes. Ensure it's level and properly secured."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Add shelves and drawers: Install shelf brackets and slide in shelves. If desired, add drawers by following the manufacturer's instructions."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Finishing touches: Sand any rough edges, and apply paint or finish to the wardrobe for protection and aesthetics. Allow sufficient drying time."
-    },
-    {
-      "stepNumber": 8,
-      "description": "Placement and organization: Once the wardrobe is fully assembled and finished, move it to its designated location. Organize your clothes and accessories within the wardrobe."
-    }
-  ],
-  "conclusion": "Congratulations on building your own wardrobe! This guide has helped you create a personalized storage solution for your clothing and belongings. Enjoy the functionality and style of your new wardrobe, and keep your items organized with pride.",
-  "img_url": "https://images.pexels.com/photos/2325823/pexels-photo-2325823.jpeg?auto=compress&cs=tinysrgb&w=1600"
-},
-  {
-  "_id": "14",
-  "title": "Guide to Building a Desk",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a desk. Building your own desk allows you to create a workspace tailored to your needs and preferences. Follow this guide to construct a functional and personalized desk that will enhance your productivity and comfort.",
-  "materialsNeeded": [
-    "Wooden boards (choose the size and type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Paint or wood stain (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your desk and sketch out a design. Consider the height, width, and depth that will best suit your work needs."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Wear safety goggles and work gloves during this step."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will ensure a comfortable and polished workspace."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the frame: Attach the legs to the top board using screws and wood glue. Use a level to ensure the desk is stable and level."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Add additional features: If desired, attach drawers, shelves, or cable management solutions to enhance the functionality of your desk."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. Apply paint or wood stain for a polished appearance."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Setup and use: Once the finish has dried, place your desk in your desired location. Organize your workspace and start enjoying your new custom-built desk."
-    }
-  ],
-  "conclusion": "Congratulations on building your own desk! With this guide, you've created a workspace that perfectly fits your needs and style. Enjoy the benefits of a well-designed and functional desk for your work and creative endeavors.",
-  "img_url": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&w=1600"
-}
-,
-{
-  "_id": "15",
-  "title": "Guide to Building a Bookshelf",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a bookshelf. Building your own bookshelf allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and attractive bookshelf that will display your books and other items with pride.",
-  "materialsNeeded": [
-    "Wooden boards (choose the size and type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Paint or wood stain (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your bookshelf and sketch out a design. Consider the number of shelves and their spacing based on the height of your books."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your bookshelf a polished look and prevent splinters."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the frame: Begin by attaching the vertical side boards to the top and bottom boards. Use screws and wood glue to secure the joints. Use a level to ensure the frame is square."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Add the shelves: Position the pre-cut shelves evenly within the frame. Secure them by screwing through the sides of the frame into the shelves."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bookshelf according to your preference. Allow sufficient drying time."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Placement and enjoyment: Once the finish has dried, move the bookshelf to its desired location. Organize your books and other items on the shelves, and admire your completed bookshelf."
-    }
-  ],
-  "conclusion": "Congratulations on building your own bookshelf! By following this guide, you've created a customized piece of furniture that perfectly suits your needs. Enjoy the satisfaction of displaying your books and personal items in a functional and aesthetically pleasing way. Remember to prioritize safety throughout the construction process and have fun with your project!",
-  "img_url": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
-},{
-  "_id": "16",
-  "title": "Guide to Choosing the Perfect Armchair",
-  "introduction": "This guide will help you select the ideal armchair for your living space. Armchairs are not only functional but also contribute to the overall aesthetics of your room. Follow this guide to understand the factors to consider when choosing an armchair that suits your comfort and style preferences.",
-  "factorsToConsider": [
-    "Size of the armchair and available space in the room",
-    "Armchair style and design that complements your interior",
-    "Comfort level, including seat cushioning and back support",
-    "Fabric or material of the upholstery, considering durability and maintenance",
-    "Color or pattern that matches the room's color scheme",
-    "Additional features like reclining, swivel, or rocking capabilities",
-    "Budget and pricing of the armchair"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Assess the available space: Measure the area where you intend to place the armchair to ensure it fits comfortably."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Choose a style: Decide on the armchair style that aligns with your room's decor, whether it's modern, traditional, or eclectic."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Prioritize comfort: Test the armchair's comfort by sitting in it. Check the seat cushioning, back support, and armrest height."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Evaluate upholstery: Select an upholstery material that suits your lifestyle. Consider factors such as durability and ease of cleaning."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Coordinate with room design: Choose a color or pattern that complements the existing color scheme and aesthetic of the room."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Explore additional features: Decide if you want any extra features like reclining, swivel, or rocking functionality."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Set a budget: Determine your budget range and explore armchairs that align with your financial plan."
-    }
-  ],
-  "conclusion": "Congratulations on making an informed choice for your armchair! By considering the factors mentioned in this guide, you're well-equipped to select an armchair that enhances both comfort and style in your living space.",
-  "img_url": "https://images.pexels.com/photos/4302055/pexels-photo-4302055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-},
-  {
-  "_id": "17",
-  "title": "Guide to Building a Dresser",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a dresser. Building your own dresser allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and stylish dresser that will help you organize your clothing and belongings.",
-  "materialsNeeded": [
-    "Wooden boards (choose the size and type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Drawer slides",
-    "Drawer knobs or handles",
-    "Paint or wood stain (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your dresser and sketch out a design. Consider the number of drawers and their sizes based on your storage needs."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your dresser a polished look and prevent splinters."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the frame: Begin by building the main frame of the dresser, including the sides, top, and bottom. Use screws and wood glue to secure the joints. Use a level to ensure the dresser is level and square."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Install the drawers: Attach drawer slides to the sides of the dresser frame and the drawers. Position the drawers within the frame and secure them to the slides."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Add drawer fronts: Attach the front panels of the drawers and secure them in place. Attach knobs or handles to the drawer fronts."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the dresser according to your preference. Allow sufficient drying time."
-    },
-    {
-      "stepNumber": 8,
-      "description": "Placement and organization: Once the finish has dried, move the dresser to its desired location. Organize your clothing and belongings in the drawers, and appreciate your completed dresser."
-    }
-  ],
-  "conclusion": "Congratulations on building your own dresser! By following this guide, you've crafted a functional piece of furniture that meets your storage needs and complements your decor. Enjoy the satisfaction of having a customized dresser that helps you stay organized and enhances your living space.",
-  "img_url": "https://images.pexels.com/photos/3817942/pexels-photo-3817942.jpeg?auto=compress&cs=tinysrgb&w=1600"
-},
-  {
-  "_id": "18",
-  "title": "Guide to Building a Nightstand",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. Building your own nightstand allows you to create a unique and functional piece of furniture that complements your bedroom decor. Follow this guide to craft a nightstand that adds both style and utility to your sleeping space.",
-  "materialsNeeded": [
-    "Wooden boards (choose the type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Stain or paint (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your nightstand and sketch out a design that suits your bedroom aesthetics."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Always prioritize safety by wearing goggles and gloves."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Smooth the edges: Use sandpaper to smooth out any rough edges and surfaces of the cut boards for a polished appearance."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the frame: Attach the boards together to create the frame of the nightstand. Use screws and wood glue for secure joints, and ensure the frame is level."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Add the shelves or drawers: If desired, incorporate shelves or drawers within the frame to provide storage space. Secure them carefully."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Apply finish: Sand the surfaces once more and then apply stain or paint for the desired finish. Allow sufficient drying time."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Final touches: Attach any hardware, such as knobs or handles, to the drawers or doors. Check for stability and make any necessary adjustments."
-    },
-    {
-      "stepNumber": 8,
-      "description": "Placement and enjoyment: Once the nightstand is ready, place it in your bedroom according to your preference. Enjoy the convenience and style it brings to your space."
-    }
-  ],
-  "conclusion": "Congratulations on successfully building your own nightstand! You've now added a personal touch to your bedroom with a functional and stylish piece of furniture. Make sure to take pride in your craftsmanship and enjoy the benefits of your creation.",
-  "img_url": "https://images.pexels.com/photos/1231265/pexels-photo-1231265.jpeg?auto=compress&cs=tinysrgb&w=1600"
-},
-  {
-  "_id": "19",
-  "title": "Guide to Building a Nightstand",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. A nightstand is a versatile piece of furniture that can add both functionality and aesthetics to your bedroom. Follow this guide to create a stylish and functional nightstand that complements your bedroom decor.",
-  "materialsNeeded": [
-    "Wooden boards (choose the type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Drawer knobs or pulls",
-    "Paint or wood stain (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Measure and plan: Determine the dimensions of your nightstand and create a design that suits your bedroom style."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper to prepare for assembly."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the frame: Construct the basic frame of the nightstand by attaching the sides, top, and bottom boards using screws and wood glue."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Add the drawer: If your nightstand design includes a drawer, assemble the drawer using the appropriate boards and hardware."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Attach hardware: Install drawer knobs or pulls to the drawer front to add a functional and decorative element."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Finishing touches: Sand any rough areas, and if desired, paint or stain the nightstand to match your bedroom decor."
-    },
-    {
-      "stepNumber": 8,
-      "description": "Placement and use: Once the finish has dried, place your nightstand in your bedroom and enjoy the added convenience and style it brings."
-    }
-  ],
-  "conclusion": "Congratulations on successfully building your own nightstand! This piece of furniture adds both practicality and charm to your bedroom. Customize it to suit your personal taste and elevate your bedroom space.",
-  "img_url": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1600"
-},
-  {
-  "_id": "20",
-  "title": "Guide to Building a Bench",
-  "introduction": "This guide will provide you with step-by-step instructions on how to build a bench. Building your own bench allows you to create a comfortable seating solution that complements your space and style. Follow this guide to construct a sturdy and visually appealing bench that can be a great addition to your home.",
-  "materialsNeeded": [
-    "Wooden boards (choose the type of wood based on your preference)",
-    "Screws",
-    "Wood glue",
-    "Drill",
-    "Circular saw or handsaw",
-    "Measuring tape",
-    "Level",
-    "Sandpaper",
-    "Paint or wood stain (optional)",
-    "Paintbrush or roller (if painting)",
-    "Safety goggles",
-    "Work gloves"
-  ],
-  "steps": [
-    {
-      "stepNumber": 1,
-      "description": "Plan and measure: Determine the dimensions of your bench and create a design. Consider the seating height, width, and backrest angle."
-    },
-    {
-      "stepNumber": 2,
-      "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Ensure accurate cuts for a precise fit."
-    },
-    {
-      "stepNumber": 3,
-      "description": "Sand the boards: Smooth the edges and surfaces of the boards using sandpaper to prevent splinters and create a polished appearance."
-    },
-    {
-      "stepNumber": 4,
-      "description": "Assemble the base: Attach the legs and support beams to create the base of the bench. Use wood glue and screws for secure connections."
-    },
-    {
-      "stepNumber": 5,
-      "description": "Add the seat and backrest: Attach the seat boards and backrest boards to the base. Ensure proper spacing and use a level to maintain balance."
-    },
-    {
-      "stepNumber": 6,
-      "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bench to enhance its appearance. Allow sufficient drying time."
-    },
-    {
-      "stepNumber": 7,
-      "description": "Placement and enjoyment: Once the finish is dry, place the bench in your desired location. Admire your handiwork and enjoy the comfort of your newly built bench."
-    }
-  ],
-  "conclusion": "Congratulations on successfully building your own bench! By following this guide, you've created a customized piece of furniture that offers both functionality and aesthetics. Whether placed indoors or outdoors, your bench will provide a comfortable spot for relaxation. Remember to prioritize safety throughout the construction process and take pride in your craftsmanship.",
-  "img_url": "https://images.pexels.com/photos/3859977/pexels-photo-3859977.jpeg?auto=compress&cs=tinysrgb&w=1600"
-}
+//   {
+//   "_id": "13",
+//   "title": "Guide to Building a Wardrobe",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a wardrobe. Building your own wardrobe allows you to create a customized storage solution that fits your space and style. Follow this guide to construct a functional and stylish wardrobe to keep your clothes and accessories organized.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw",
+//     "Measuring tape",
+//     "Level",
+//     "Hinges",
+//     "Handles or knobs",
+//     "Clothing rod",
+//     "Shelf brackets",
+//     "Shelves",
+//     "Paint or finish (optional)",
+//     "Paintbrush or roller",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your wardrobe and sketch a design. Consider the number of shelves, drawers, and hanging space needed."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw to cut the wooden boards according to your measurements. Wear safety goggles and work gloves during this step."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Assemble the frame: Begin by constructing the main frame of the wardrobe. Attach the sides, top, and bottom using screws and wood glue."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Add doors and hardware: Attach hinges to the doors and then to the wardrobe frame. Install handles or knobs as desired."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Install clothing rod: Attach a clothing rod inside the wardrobe for hanging clothes. Ensure it's level and properly secured."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Add shelves and drawers: Install shelf brackets and slide in shelves. If desired, add drawers by following the manufacturer's instructions."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Finishing touches: Sand any rough edges, and apply paint or finish to the wardrobe for protection and aesthetics. Allow sufficient drying time."
+//     },
+//     {
+//       "stepNumber": 8,
+//       "description": "Placement and organization: Once the wardrobe is fully assembled and finished, move it to its designated location. Organize your clothes and accessories within the wardrobe."
+//     }
+//   ],
+//   "conclusion": "Congratulations on building your own wardrobe! This guide has helped you create a personalized storage solution for your clothing and belongings. Enjoy the functionality and style of your new wardrobe, and keep your items organized with pride.",
+//   "img_url": "https://images.pexels.com/photos/2325823/pexels-photo-2325823.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// },
+//   {
+//   "_id": "14",
+//   "title": "Guide to Building a Desk",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a desk. Building your own desk allows you to create a workspace tailored to your needs and preferences. Follow this guide to construct a functional and personalized desk that will enhance your productivity and comfort.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the size and type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Paint or wood stain (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your desk and sketch out a design. Consider the height, width, and depth that will best suit your work needs."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Wear safety goggles and work gloves during this step."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will ensure a comfortable and polished workspace."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the frame: Attach the legs to the top board using screws and wood glue. Use a level to ensure the desk is stable and level."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Add additional features: If desired, attach drawers, shelves, or cable management solutions to enhance the functionality of your desk."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. Apply paint or wood stain for a polished appearance."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Setup and use: Once the finish has dried, place your desk in your desired location. Organize your workspace and start enjoying your new custom-built desk."
+//     }
+//   ],
+//   "conclusion": "Congratulations on building your own desk! With this guide, you've created a workspace that perfectly fits your needs and style. Enjoy the benefits of a well-designed and functional desk for your work and creative endeavors.",
+//   "img_url": "https://images.pexels.com/photos/936722/pexels-photo-936722.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// }
+// ,
+// {
+//   "_id": "15",
+//   "title": "Guide to Building a Bookshelf",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a bookshelf. Building your own bookshelf allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and attractive bookshelf that will display your books and other items with pride.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the size and type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Paint or wood stain (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your bookshelf and sketch out a design. Consider the number of shelves and their spacing based on the height of your books."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your bookshelf a polished look and prevent splinters."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the frame: Begin by attaching the vertical side boards to the top and bottom boards. Use screws and wood glue to secure the joints. Use a level to ensure the frame is square."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Add the shelves: Position the pre-cut shelves evenly within the frame. Secure them by screwing through the sides of the frame into the shelves."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bookshelf according to your preference. Allow sufficient drying time."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Placement and enjoyment: Once the finish has dried, move the bookshelf to its desired location. Organize your books and other items on the shelves, and admire your completed bookshelf."
+//     }
+//   ],
+//   "conclusion": "Congratulations on building your own bookshelf! By following this guide, you've created a customized piece of furniture that perfectly suits your needs. Enjoy the satisfaction of displaying your books and personal items in a functional and aesthetically pleasing way. Remember to prioritize safety throughout the construction process and have fun with your project!",
+//   "img_url": "https://images.pexels.com/photos/1090638/pexels-photo-1090638.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// },{
+//   "_id": "16",
+//   "title": "Guide to Choosing the Perfect Armchair",
+//   "introduction": "This guide will help you select the ideal armchair for your living space. Armchairs are not only functional but also contribute to the overall aesthetics of your room. Follow this guide to understand the factors to consider when choosing an armchair that suits your comfort and style preferences.",
+//   "factorsToConsider": [
+//     "Size of the armchair and available space in the room",
+//     "Armchair style and design that complements your interior",
+//     "Comfort level, including seat cushioning and back support",
+//     "Fabric or material of the upholstery, considering durability and maintenance",
+//     "Color or pattern that matches the room's color scheme",
+//     "Additional features like reclining, swivel, or rocking capabilities",
+//     "Budget and pricing of the armchair"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Assess the available space: Measure the area where you intend to place the armchair to ensure it fits comfortably."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Choose a style: Decide on the armchair style that aligns with your room's decor, whether it's modern, traditional, or eclectic."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Prioritize comfort: Test the armchair's comfort by sitting in it. Check the seat cushioning, back support, and armrest height."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Evaluate upholstery: Select an upholstery material that suits your lifestyle. Consider factors such as durability and ease of cleaning."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Coordinate with room design: Choose a color or pattern that complements the existing color scheme and aesthetic of the room."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Explore additional features: Decide if you want any extra features like reclining, swivel, or rocking functionality."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Set a budget: Determine your budget range and explore armchairs that align with your financial plan."
+//     }
+//   ],
+//   "conclusion": "Congratulations on making an informed choice for your armchair! By considering the factors mentioned in this guide, you're well-equipped to select an armchair that enhances both comfort and style in your living space.",
+//   "img_url": "https://images.pexels.com/photos/4302055/pexels-photo-4302055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+// },
+//   {
+//   "_id": "17",
+//   "title": "Guide to Building a Dresser",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a dresser. Building your own dresser allows you to customize its size, design, and materials to fit your space and personal style. Follow this guide to create a functional and stylish dresser that will help you organize your clothing and belongings.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the size and type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Drawer slides",
+//     "Drawer knobs or handles",
+//     "Paint or wood stain (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your dresser and sketch out a design. Consider the number of drawers and their sizes based on your storage needs."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the boards according to your measurements. Make sure to wear safety goggles and work gloves during this step."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper. This will give your dresser a polished look and prevent splinters."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the frame: Begin by building the main frame of the dresser, including the sides, top, and bottom. Use screws and wood glue to secure the joints. Use a level to ensure the dresser is level and square."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Install the drawers: Attach drawer slides to the sides of the dresser frame and the drawers. Position the drawers within the frame and secure them to the slides."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Add drawer fronts: Attach the front panels of the drawers and secure them in place. Attach knobs or handles to the drawer fronts."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the dresser according to your preference. Allow sufficient drying time."
+//     },
+//     {
+//       "stepNumber": 8,
+//       "description": "Placement and organization: Once the finish has dried, move the dresser to its desired location. Organize your clothing and belongings in the drawers, and appreciate your completed dresser."
+//     }
+//   ],
+//   "conclusion": "Congratulations on building your own dresser! By following this guide, you've crafted a functional piece of furniture that meets your storage needs and complements your decor. Enjoy the satisfaction of having a customized dresser that helps you stay organized and enhances your living space.",
+//   "img_url": "https://images.pexels.com/photos/3817942/pexels-photo-3817942.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// },
+//   {
+//   "_id": "18",
+//   "title": "Guide to Building a Nightstand",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. Building your own nightstand allows you to create a unique and functional piece of furniture that complements your bedroom decor. Follow this guide to craft a nightstand that adds both style and utility to your sleeping space.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Stain or paint (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your nightstand and sketch out a design that suits your bedroom aesthetics."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Always prioritize safety by wearing goggles and gloves."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Smooth the edges: Use sandpaper to smooth out any rough edges and surfaces of the cut boards for a polished appearance."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the frame: Attach the boards together to create the frame of the nightstand. Use screws and wood glue for secure joints, and ensure the frame is level."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Add the shelves or drawers: If desired, incorporate shelves or drawers within the frame to provide storage space. Secure them carefully."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Apply finish: Sand the surfaces once more and then apply stain or paint for the desired finish. Allow sufficient drying time."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Final touches: Attach any hardware, such as knobs or handles, to the drawers or doors. Check for stability and make any necessary adjustments."
+//     },
+//     {
+//       "stepNumber": 8,
+//       "description": "Placement and enjoyment: Once the nightstand is ready, place it in your bedroom according to your preference. Enjoy the convenience and style it brings to your space."
+//     }
+//   ],
+//   "conclusion": "Congratulations on successfully building your own nightstand! You've now added a personal touch to your bedroom with a functional and stylish piece of furniture. Make sure to take pride in your craftsmanship and enjoy the benefits of your creation.",
+//   "img_url": "https://images.pexels.com/photos/1231265/pexels-photo-1231265.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// },
+//   {
+//   "_id": "19",
+//   "title": "Guide to Building a Nightstand",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a nightstand. A nightstand is a versatile piece of furniture that can add both functionality and aesthetics to your bedroom. Follow this guide to create a stylish and functional nightstand that complements your bedroom decor.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Drawer knobs or pulls",
+//     "Paint or wood stain (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Measure and plan: Determine the dimensions of your nightstand and create a design that suits your bedroom style."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Sand the boards: Smooth the rough edges and surfaces of the boards using sandpaper to prepare for assembly."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the frame: Construct the basic frame of the nightstand by attaching the sides, top, and bottom boards using screws and wood glue."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Add the drawer: If your nightstand design includes a drawer, assemble the drawer using the appropriate boards and hardware."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Attach hardware: Install drawer knobs or pulls to the drawer front to add a functional and decorative element."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Finishing touches: Sand any rough areas, and if desired, paint or stain the nightstand to match your bedroom decor."
+//     },
+//     {
+//       "stepNumber": 8,
+//       "description": "Placement and use: Once the finish has dried, place your nightstand in your bedroom and enjoy the added convenience and style it brings."
+//     }
+//   ],
+//   "conclusion": "Congratulations on successfully building your own nightstand! This piece of furniture adds both practicality and charm to your bedroom. Customize it to suit your personal taste and elevate your bedroom space.",
+//   "img_url": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// },
+//   {
+//   "_id": "20",
+//   "title": "Guide to Building a Bench",
+//   "introduction": "This guide will provide you with step-by-step instructions on how to build a bench. Building your own bench allows you to create a comfortable seating solution that complements your space and style. Follow this guide to construct a sturdy and visually appealing bench that can be a great addition to your home.",
+//   "materialsNeeded": [
+//     "Wooden boards (choose the type of wood based on your preference)",
+//     "Screws",
+//     "Wood glue",
+//     "Drill",
+//     "Circular saw or handsaw",
+//     "Measuring tape",
+//     "Level",
+//     "Sandpaper",
+//     "Paint or wood stain (optional)",
+//     "Paintbrush or roller (if painting)",
+//     "Safety goggles",
+//     "Work gloves"
+//   ],
+//   "steps": [
+//     {
+//       "stepNumber": 1,
+//       "description": "Plan and measure: Determine the dimensions of your bench and create a design. Consider the seating height, width, and backrest angle."
+//     },
+//     {
+//       "stepNumber": 2,
+//       "description": "Cut the boards: Use a circular saw or handsaw to cut the wooden boards according to your measurements. Ensure accurate cuts for a precise fit."
+//     },
+//     {
+//       "stepNumber": 3,
+//       "description": "Sand the boards: Smooth the edges and surfaces of the boards using sandpaper to prevent splinters and create a polished appearance."
+//     },
+//     {
+//       "stepNumber": 4,
+//       "description": "Assemble the base: Attach the legs and support beams to create the base of the bench. Use wood glue and screws for secure connections."
+//     },
+//     {
+//       "stepNumber": 5,
+//       "description": "Add the seat and backrest: Attach the seat boards and backrest boards to the base. Ensure proper spacing and use a level to maintain balance."
+//     },
+//     {
+//       "stepNumber": 6,
+//       "description": "Finishing touches: Fill any visible screw holes with wood filler and sand them down. If desired, paint or stain the bench to enhance its appearance. Allow sufficient drying time."
+//     },
+//     {
+//       "stepNumber": 7,
+//       "description": "Placement and enjoyment: Once the finish is dry, place the bench in your desired location. Admire your handiwork and enjoy the comfort of your newly built bench."
+//     }
+//   ],
+//   "conclusion": "Congratulations on successfully building your own bench! By following this guide, you've created a customized piece of furniture that offers both functionality and aesthetics. Whether placed indoors or outdoors, your bench will provide a comfortable spot for relaxation. Remember to prioritize safety throughout the construction process and take pride in your craftsmanship.",
+//   "img_url": "https://images.pexels.com/photos/3859977/pexels-photo-3859977.jpeg?auto=compress&cs=tinysrgb&w=1600"
+// }
 
 
 

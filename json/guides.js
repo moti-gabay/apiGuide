@@ -474,7 +474,7 @@ exports.guides =   [
     }
   ],
   "conclusion": "Congratulations on making an informed decision about choosing the perfect sofa! By following this guide, you're well-prepared to find a sofa that matches your style, comfort, and space requirements. Remember that a sofa is an investment in both aesthetics and functionality, so take your time to make the right choice.",
-  "img_url": "https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  "img_url": "https://images.pexels.com/photos/4577537/pexels-photo-4577537.jpeg?auto=compress&cs=tinysrgb&w=1600"
 },
   {
   "_id": "10",
@@ -529,7 +529,7 @@ exports.guides =   [
     }
   ],
   "conclusion": "Congratulations on completing your DIY dining table! You've created a functional and personalized piece of furniture that will enhance your dining area. Remember to take your time, follow safety precautions, and enjoy the satisfaction of using a table that you've built yourself.",
-  "img_url": "https://images.pexels.com/photos/4733257/pexels-photo-4733257.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  "img_url": "https://images.pexels.com/photos/373530/pexels-photo-373530.jpeg?auto=compress&cs=tinysrgb&w=1600"
 },
   {
   "_id": "11",
@@ -587,7 +587,7 @@ exports.guides =   [
     }
   ],
   "conclusion": "Congratulations on building your own bed! With this guide, you've created a personalized sleeping space that reflects your style and craftsmanship. Enjoy comfortable and restful nights in your handmade bed.",
-  "img_url": "https://images.pexels.com/photos/1645953/pexels-photo-1645953.jpeg?auto=compress&cs=tinysrgb&w=1600"
+  "img_url": "https://images.pexels.com/photos/376531/pexels-photo-376531.jpeg?auto=compress&cs=tinysrgb&w=1600"
 },
   {
   "_id": "12",
@@ -638,7 +638,7 @@ exports.guides =   [
     }
   ],
   "conclusion": "Congratulations on successfully building your own coffee table! Following this guide, you've created a personalized piece of furniture that adds both function and style to your living space. Enjoy the satisfaction of crafting a coffee table that reflects your creativity and enhances your home.",
-  "img_url": "https://images.pexels.com/photos/2092351/pexels-photo-2092351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  "img_url": "https://images.pexels.com/photos/2079455/pexels-photo-2079455.jpeg?auto=compress&cs=tinysrgb&w=1600"
 },
 //   {
 //   "_id": "13",

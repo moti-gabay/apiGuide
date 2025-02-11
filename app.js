@@ -3,7 +3,6 @@ const http = require("http");
 const path = require("path");
 const cors = require("cors");
 const {routesInit} = require("./routes/configRoutes")
-require("./db/mongoConnect");
 
 const app = express();
 app.use(cors());
@@ -20,4 +19,6 @@ const server = http.createServer(app);
 // בודק אם אנחנו על שרת אמיתי ואם כן דואג שנקבל את הפורט שהענן צריך
 // אם לא הברירת מחדל תיהיה 3003
 const port = process.env.PORT || 3003;
-server.listen(port);
+server.listen(port,()=>{
+    console.log("server is running on port " + port);
+});
